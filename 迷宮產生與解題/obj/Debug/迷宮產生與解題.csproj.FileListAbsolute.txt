@@ -1,0 +1,10 @@
+C:\Users\aitay\source\repos\迷宮產生與解題\迷宮產生與解題\bin\Debug\迷宮產生與解題.exe.config
+C:\Users\aitay\source\repos\迷宮產生與解題\迷宮產生與解題\bin\Debug\迷宮產生與解題.exe
+C:\Users\aitay\source\repos\迷宮產生與解題\迷宮產生與解題\bin\Debug\迷宮產生與解題.pdb
+C:\Users\aitay\source\repos\迷宮產生與解題\迷宮產生與解題\obj\Debug\迷宮產生與解題.csprojResolveAssemblyReference.cache
+C:\Users\aitay\source\repos\迷宮產生與解題\迷宮產生與解題\obj\Debug\迷宮產生與解題.Form1.resources
+C:\Users\aitay\source\repos\迷宮產生與解題\迷宮產生與解題\obj\Debug\迷宮產生與解題.Properties.Resources.resources
+C:\Users\aitay\source\repos\迷宮產生與解題\迷宮產生與解題\obj\Debug\迷宮產生與解題.csproj.GenerateResource.Cache
+C:\Users\aitay\source\repos\迷宮產生與解題\迷宮產生與解題\obj\Debug\迷宮產生與解題.csproj.CoreCompileInputs.cache
+C:\Users\aitay\source\repos\迷宮產生與解題\迷宮產生與解題\obj\Debug\迷宮產生與解題.exe
+C:\Users\aitay\source\repos\迷宮產生與解題\迷宮產生與解題\obj\Debug\迷宮產生與解題.pdb
